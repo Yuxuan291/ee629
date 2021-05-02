@@ -25,4 +25,4 @@
 
 #This is the final result of accuracy of this model.
 
-#The purpose of this model is to illustate the internal relationship of several parameters to the desired variables. In this case, the decison tree model shows the connection of the class, sex, age, number of offsprings. We can find the clue through those four labels to obtain the possiblity of survivor or fatality in specific case. The apply of machine learning helps the analysis to achieve a better 
+#The purpose of this model is to illustate the internal relationship of several parameters to the desired variables. In this case, the decison tree model shows the connection of the class, sex, age, number of offsprings. We can find the clue through those four labels to obtain the possiblity of survivor or fatality in specific case. The apply of machine learning helps the analysis to achieve a better fitness in reality.
