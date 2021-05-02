@@ -6,11 +6,17 @@
 #In order to collect the useful data, I searched online and find this source https://www.encyclopedia-titanica.org/titanic-passenger-list/. There are the information of 1350 passengers on Titanic, which is saved in the file(Titanic. csv). basing on this source, the characteristics of the victims and the survivors will be further analyzed through machine learning. 
 
 #The detail of processes in this project is listed below:
+
 #1. Select the part of the data that is suitable for machine learning analysis; 
+
 #2. Remove the meaningless data in each label;
+
 #3. Divide the data into training data and test data, and import them into the tree_decision tree function to obtain a decision tree model;
+
 #4. Use cross‐validation to find the best parameter to prune the tree;
+
 #5. Optimize the model through the above methods, and use the remaining data to test the model;
+
 #6. Show the final decision tree results and the accuracy of the results after model optimization.
 
 #This is the decision tree model.
