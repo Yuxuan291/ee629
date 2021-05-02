@@ -1,7 +1,7 @@
 # IoT Project: decision tree model in Python
 
 
-#This topic is a simple implementation of decision tree model in machine learning by the use of Python package（sklearn and graphviz）. The idea of this project is originated from the experience of modeling and simulation class in this semester. So I combine the modeling tool and Python coding of IoT context to implement this project. This is an analysis of the survivors in Titanic accident, by using the machine learning tools and appilication of decision tree model, the relationship between the probability of survivor and related factors will be obtained. And then, the validation approach will be used to optimize the result of the decision tree model, the model will be also verificated by the relative accuracy and be tested by the rest of data. 
+#This topic is a simple implementation of the decision tree model in machine learning by the use of Python package（sklearn and graphviz）. The idea of this project is originated from the experience of modeling and simulation class this semester. So I combine the modeling tool and Python coding of IoT context to implement this project. This is an analysis of the survivors in Titanic accident, by using the machine learning tools and appilication of decision tree model, the relationship between the probability of survivor and related factors will be obtained. And then, the validation approach will be used to optimize the result of the decision tree model, the model will be also verified by the relative accuracy and be tested by the rest of the data. 
 
 #In order to collect the useful data, I searched online and find this source https://www.encyclopedia-titanica.org/titanic-passenger-list/. There are the information of 1350 passengers on Titanic, which is saved in the file(Titanic. csv). basing on this source, the characteristics of the victims and the survivors will be further analyzed through machine learning. 
 
@@ -31,4 +31,4 @@
 
 ![image](https://github.com/Yuxuan291/ee629/blob/main/2f2e7d797dd7d1f6a7c74110a6a7a69.png)
 
-#The purpose of this model is to illustate the internal relationship of several parameters to the desired variables. In this case, the decison tree model shows the connection of the class, sex, age, number of offsprings. We can find the clue through those four labels to obtain the possiblity of survivor or fatality in specific case. The apply of machine learning helps the analysis to achieve a better fitness in reality.
+#The purpose of this model is to illustate the internal relationship of several parameters to the desired variables. In this case, the decision tree model shows the connection of the class, sex, age, number of offsprings. We can find the clue through those four labels to obtain the possibility of survivor or fatality in specific case. The apply of machine learning helps the analysis to achieve a better fitness in reality.
