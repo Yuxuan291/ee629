@@ -7,7 +7,7 @@ In order to collect the useful data, I searched online and find this source http
 
 The detail of processes in this project is listed below:
 
-1. Select the part of the data that is suitable for machine learning analysis; 
+* Select the part of the data that is suitable for machine learning analysis; 
 
 2. Remove the meaningless data in each label;
 
