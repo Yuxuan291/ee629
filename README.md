@@ -9,15 +9,15 @@ The detail of processes in this project is listed below:
 
 * Select the part of the data that is suitable for machine learning analysis; 
 
-2. Remove the meaningless data in each label;
+* Remove the meaningless data in each label;
 
-3. Divide the data into training data and test data, and import them into the tree_decision tree function to obtain a decision tree model;
+* Divide the data into training data and test data, and import them into the tree_decision tree function to obtain a decision tree model;
 
-4. Use cross‐validation to find the best parameter to prune the tree;
+* Use cross‐validation to find the best parameter to prune the tree;
 
-5. Optimize the model through the above methods, and use the remaining data to test the model;
+* Optimize the model through the above methods, and use the remaining data to test the model;
 
-6. Show the final decision tree results and the accuracy of the results after model optimization.
+* Show the final decision tree results and the accuracy of the results after model optimization.
 
 This is the decision tree model.
 
