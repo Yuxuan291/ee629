@@ -1,4 +1,4 @@
-# IoT Project: decision tree model in Python
+# IoT Project: Decision Tree Model in Python
 
 
 This topic is a simple implementation of the decision tree model in machine learning by the use of Python package (sklearn and graphviz). The idea of this project is originated from the experience of modeling and simulation class this semester. So I combine the modeling tool and Python coding of IoT context to implement this project. This is an analysis of the survivors in Titanic accident, by using the machine learning tools and appilication of decision tree model, the relationship between the probability of survivor and related factors will be obtained. And then, the validation approach will be used to optimize the result of the decision tree model, the model will be also verified by the relative accuracy and be tested by the rest of the data. 
